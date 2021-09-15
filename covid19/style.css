@@ -1,0 +1,33 @@
+body {
+  font-family: "Poor Story", cursive;
+  text-align: center;
+  font-size: 35px;
+}
+#heads {
+  font-weight: bold;
+  margin: auto;
+  padding: auto;
+}
+li {
+  list-style-type: none;
+  margin: 10px;
+}
+#korean {
+  background-color: #46faa0;
+}
+#english {
+  background-color: #3ede61;
+}
+#math {
+  background-color: #5ef550;
+}
+#society {
+  background-color: #83de3e;
+}
+#japanese {
+  background-color: #d3fa46;
+}
+input {
+  -webkit-transform: scale(2);
+  padding: 10px;
+}
